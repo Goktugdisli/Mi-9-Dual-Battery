@@ -17,8 +17,9 @@ ROM Type: Retrofit Dynamic Partition (RDP) ROMs only.
 Notice: NOT COMPATIBLE WITH CUSTOM HIGH REFRESH RATE DTBO MODIFICATIONS. I plan to make a high refresh rate release as well.
 
 ## Installation
-1. Flash the DTBO-Flasher .zip in OrangeFox/TWRP to apply the kernel profile.
-2. Boot into Android, install the PowerProfile-KSU module in the KernelSU/Magisk app to for power profile. Failing to do this will result in broken battery percentage reporting.
+1. Backup your boot partition
+2. Flash the DTBO-Flasher .zip in OrangeFox/TWRP to apply the kernel profile.
+3. Boot into Android, install the PowerProfile-KSU module in the KernelSU/Magisk app to for power profile. Failing to do this will result in broken battery percentage reporting.
 
 ## Disclaimer ⚠️
 I am not responsible for bricked devices, dead SD cards, or motherboard fires. Modifying lithium-ion batteries requires physical soldering and carries inherent risks of thermal runaway. You are choosing to make these modifications at your own risk.
