@@ -1,0 +1,6 @@
+id=BatteryOverlay
+name=Battery Overlay Fix
+version=ver.1
+versionCode=01
+author=goktug
+description=Corrects Power Profile battery capacity
