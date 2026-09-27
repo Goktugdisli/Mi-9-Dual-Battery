@@ -24,8 +24,7 @@ Notice: NOT COMPATIBLE WITH CUSTOM HIGH REFRESH RATE DTBO MODIFICATIONS. I plan 
 I am not responsible for bricked devices, dead SD cards, or motherboard fires. Modifying lithium-ion batteries requires physical soldering and carries inherent risks of thermal runaway. You are choosing to make these modifications at your own risk.
 
 ## Credits
-raystef66 - For the Cepheus Android kernel source and the AnyKernel3 template used in this project.
-
-PycmShoma - For the base of the Power Profile framework overlay (IncreasedBatteryCapacity).
-
-osm0sis - For the original AnyKernel3 flashing framework.
+## Credits
+* **[raystef66](https://github.com/raystef66)** - For the Cepheus Android kernel source and the AnyKernel3 template used in this project.
+* **[PycmShoma](https://github.com/PycmShoma)** - For the base of the Power Profile framework overlay (`https://github.com/PycmShoma/IncreasedBatteryCapacity`).
+* **[osm0sis](https://github.com/osm0sis)** - For the original [AnyKernel3](https://github.com/osm0sis/AnyKernel3) flashing framework.
