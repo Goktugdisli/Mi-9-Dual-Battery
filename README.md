@@ -17,15 +17,15 @@ ROM Type: Retrofit Dynamic Partition (RDP) ROMs only.
 Notice: NOT COMPATIBLE WITH CUSTOM HIGH REFRESH RATE DTBO MODIFICATIONS. I plan to make a high refresh rate release as well.
 
 ## Installation
-1. Flash the DTBO-Flasher .zip in OrangeFox/TWRP to apply the kernel profile.
-2. Boot into Android, install the PowerProfile-KSU module in the KernelSU/Magisk app to for power profile. Failing to do this will result in broken battery percentage reporting.
+1. Backup your boot partition
+2. Flash the DTBO-Flasher .zip in OrangeFox/TWRP to apply the kernel profile.
+3. Boot into Android, install the PowerProfile-KSU module in the KernelSU/Magisk app to for power profile. Failing to do this will result in broken battery percentage reporting.
 
 ## Disclaimer ⚠️
 I am not responsible for bricked devices, dead SD cards, or motherboard fires. Modifying lithium-ion batteries requires physical soldering and carries inherent risks of thermal runaway. You are choosing to make these modifications at your own risk.
 
+
 ## Credits
-raystef66 - For the Cepheus Android kernel source and the AnyKernel3 template used in this project.
-
-PycmShoma - For the base of the Power Profile framework overlay (IncreasedBatteryCapacity).
-
-osm0sis - For the original AnyKernel3 flashing framework.
+* **[raystef66](https://github.com/raystef66)** - For the Cepheus Android kernel source and the AnyKernel3 template used in this project.
+* **[PycmShoma](https://github.com/PycmShoma)** - For the base of the Power Profile framework overlay (`https://github.com/PycmShoma/IncreasedBatteryCapacity`).
+* **[osm0sis](https://github.com/osm0sis)** - For the original [AnyKernel3](https://github.com/osm0sis/AnyKernel3) flashing framework.
